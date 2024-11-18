@@ -1,2 +1,3 @@
 # Tiktak-Game
-Tiktak Game using Flutter and Dart
+Tiktak Game using Flutter and Dart.
+
